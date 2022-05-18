@@ -2,16 +2,106 @@
    "files": [ 
 
       {
-         "name": "DTAC-VIP-01",
+         "name": "DTAC-FREE-01",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/DTAC-FREE-001.ovpn"
+      },
+
+{
+         "name": "DTAC-FREE-02",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/DTAC-FREE-002.ovpn"
+      },
+
+{
+         "name": "DTAC-GAME-VIP-01",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/DTAC-GAME-VIP-1.ovpn"
+      },
+
+{
+         "name": "DTAC-GAME-VIP-01",
          "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/DTAC-GAME-VIP-2.ovpn"
       },
 
 {
-         "name": "TRUE-VIP-01 ",
-         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/DTAC-GAME-VIP-2.ovpn"
+         "name": "DTAC-VIP-01",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/DTAC-VIP-01.ovpn"
+      },
+
+{
+         "name": "DTAC-VIP-02",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/DTAC-VIP-02.ovpn"
+      },
+
+{
+         "name": "DTAC-VIP-03",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/DTAC-VIP-03.ovpn"
+      },
+
+{
+         "name": "DTAC-VIP-04",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/DTAC-VIP-04.ovpn"
+      },
+
+{
+         "name": "DTAC-VIP-05",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/DTAC-VIP-05.ovpn"
+      },
+
+{
+         "name": "DTAC-VIP-06",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/DTAC-VIP-06.ovpn"
+      },
+
+{
+         "name": "TRUE-FREE-01",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/TRUE-FREE-001.ovpn"
+      },
+
+{
+         "name": "TRUE-FREE-02",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/TRUE-FREE-002.ovpn"
+      },
+
+{
+         "name": "TRUE-GAME-VIP-01",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/TRUE-GAME-VIP-1.ovpn"
+      },
+
+{
+         "name": "TRUE-GAME-VIP-02",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/TRUE-GAME-VIP-2.ovpn"
+      },
+
+{
+         "name": "TRUE-VIP-01",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/TRUE-VIP-01.ovpn"
+      },
+
+{
+         "name": "TRUE-VIP-02",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/TRUE-VIP-02.ovpn"
+      },
+
+{
+         "name": "TRUE-VIP-03",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/TRUE-VIP-03.ovpn"
+      },
+
+{
+         "name": "TRUE-VIP-04",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/TRUE-VIP-04.ovpn"
+      },
+
+{
+         "name": "TRUE-VIP-05",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/TRUE-VIP-05.ovpn"
+      },
+
+{
+         "name": "TRUE-VIP-06 ",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/TRUE-VIP-06.ovpn"
       }
    ],
-"message":"အပ်ဒိပ်ဖိုင်\nဖိုင်ဗားရှင်း 1\nUpdate by: GOODSPEED-VIP\nဖိုင်အသစ်ရခဲ့တယ် ",
+"message":"\nဖိုင်ဗားရှင်း 2\n💥GOODSPEED-VIP💥\nဖိုင်အသစ်ရခဲ့တယ် ",
    "title":"အပ်ဒိပ်ရရှိနိုင်ပါပီး" ,
-   "version": 1
+   "version": 2
 }
