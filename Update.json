@@ -22,6 +22,11 @@
       },
 
 {
+         "name": "DTAC-GAME-VIP-03",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/DTAC-GAME-VIP-3.ovpn"
+      },
+
+{
          "name": "DTAC-VIP-01",
          "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/DTAC-VIP-01.ovpn"
       },
@@ -72,6 +77,11 @@
       },
 
 {
+         "name": "TRUE-GAME-VIP-03",
+         "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/TRUE-GAME-VIP-3.ovpn"
+      },
+
+{
          "name": "TRUE-VIP-01",
          "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/TRUE-VIP-01.ovpn"
       },
@@ -101,7 +111,10 @@
          "url": "https://raw.githubusercontent.com/GOODSPEEDVIP/GOODSPEED.json/main/TRUE-VIP-06.ovpn"
       }
    ],
-"message":"\nဖိုင်ဗားရှင်း 2\n💥GOODSPEED-VIP💥\nဖိုင်အသစ်ရပြီး
+"message":"\nဖိုင်ဗားရှင်း 2\n💥GOODSPEED-VIP💥
+🇹🇭 TH-SERVER 1လ 50ဘတ်
+🇸🇬 SG-SERVER 1လ 40ဘတ်
+\nဖိုင်အသစ်ရပြီး
 👇 ",
    "title":"❗အပ်ဒိပ်နှိပ်ပေးပါ❗" ,
    "version": 2
